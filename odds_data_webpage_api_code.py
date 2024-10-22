@@ -10,7 +10,7 @@ querystring = {"type": "PLUS_EV_AVERAGE"}
 
 # Define the headers for the request
 headers = {
-    "x-rapidapi-key": os.environ['RAPIDAPI_KEY'],
+    "x-rapidapi-key": os.environ['RAPIDAPI_KEY2'],
     "x-rapidapi-host": "sportsbook-api2.p.rapidapi.com"
 }
 
