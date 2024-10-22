@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Positive Expected Value Bet Finder</title>
+  <link rel="stylesheet" href="css_arbitrage_research.css">
+</head>
+<body>
+  <!-- Navbar Section -->
+  <nav class="navbar">
+    <div class="container">
+      <div class="navbar-header">
+        <a href="C:\Git\arbitrage_research\html_homepage_research.html" class="logo">JTD</a>
+        <button class="menu-toggle" onclick="toggleMenu()">
+          <img id="menu-icon" src="menu-icon.png" alt="Menu">
+        </button>
+      </div>
+      <div class="navbar-links" id="navbar-links">
+        <a href="C:\Git\arbitrage_research\html_homepage_research.html" class="nav-link">Home</a>
+        <a href="html_arbitrage_research.html" class="nav-link">Arbitrage</a>
+        <a href="html_ev_research.html" class="nav-link">+EV</a>
+        <a href="C:\Git\arbitrage_research\html_contact_research.html" class="nav-link">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content Section -->
+  <div class="container">
+    <h1 class="title">Positive Expected Value Bet Finder</h1>
+    <p class="description">
+        We track odds from various online sportsbooks to identify mispriced markets that can lead to profitable outcomes when consistently wagered over time—commonly referred to as positive expected value (+EV) bets. Use our tool below to find currently available +EV bets, and explore more about the mechanics of +EV betting in the following sections. <br> <br>
+        For help calculating the numbers and guaranteeing a profit, check out <a href="https://www.aceodds.com/bet-calculator/odds-converter.html" target="_blank">this Odds Converter</a>.
+    </p>
+
+    <div class="controls">
+      <div class="buttons">
+        <button id="pre-game-btn" class="active">Pre-Game</button>
+      </div>
+      <div id="lastFoundAt"></div>
+    </div>
+
+    <table class="bet-table">
+      <thead>
+        <tr>
+          <th>EVENT</th>
+          <th>+EV BET</th>
+          <th>CONSENSUS IMPLIED PROBABILITY</th>
+          <th>+EV BET ODDS</th>
+          <th>ROI</th>
+        </tr>
+      </thead>
+      <tbody id="bet-body">
+        <!-- Bets will be inserted here by JavaScript -->
+      </tbody>
+    </table>
+
+    <div class="info">
+        <h3>How Our Positive EV Bets Tool Works</h3>
+        <p>Our Positive EV (Expected Value) tool scans online sportsbooks for mispriced odds to identify bets that can return a profit over time. By constantly monitoring odds every minute, we ensure you find currently available +EV bets today.</p>
+
+        <h4>How It Works:</h4>
+        <p>To find a +EV bet, consider this example: If most sportsbooks offer the New York Yankees to win at -130 odds, but one offers them at -105, we assume -130 is the correct price. This makes the -105 odds a better value.</p>
+        <p>However, simply spotting better odds doesn't make a bet +EV. It must also overcome the "vig" or "juice" that sportsbooks charge. For example, if -130 is the correct price for the Yankees, and the no-vig fair odds come out to -119, getting -105 is a positive expected value, meaning you're getting a great deal.</p>
+
+        <h4>Using the Tool:</h4>
+        <ul>
+            <li><strong>Event:</strong> Displays the game details (league, date, time).</li>
+            <li><strong>+EV Bet:</strong> Shows the bet offering +EV and the sportsbook offering it.</li>
+            <li><strong>Consensus No Vig Odds:</strong> Reflects the odds with the vig removed.</li>
+            <li><strong>+EV Bet Odds:</strong> Directly links you to the sportsbook with the +EV bet.</li>
+            <li><strong>ROI:</strong> Displays the long-term expected return based on the bet odds and consensus no-vig odds.</li>
+        </ul>
+        <p>You can filter by league (NFL, NBA, etc.) and state to find +EV bets available in your area.</p>
+
+        <h4>What is Expected Value (EV)?</h4>
+        <p>Expected value (EV) measures how much a bet is expected to return, typically shown as a percentage. While most bets have negative EV due to the vig, +EV bets are those with a higher expected return than the sportsbook implies. Over time, consistently betting +EV can lead to a profit.</p>
+
+        <h4>Understanding No-Vig Odds:</h4>
+        <p>No-vig odds are the true odds with no sportsbook cut. For example, instead of -110 on both sides of a market, no-vig odds would be +100 on each side, reflecting the true 50/50 probability. By comparing current odds with no-vig odds, you can spot +EV opportunities.</p>
+
+        <p>In short, our tool does the hard work of finding these bets by comparing odds across sportsbooks, saving you the effort of manually checking multiple sites.</p>
+
+        <h4>Calculating Return on Investment (ROI) for Sports Betting</h4>
+        <p>To calculate the Return on Investment (ROI) for sports betting using the consensus no-vig odds and your +EV bet, you can follow these steps:</p>
+
+        <h5>Formula for ROI</h5>
+        <div class="formula">
+            ROI = (Total Profit / Total Stake) × 100
+        </div>
+
+        <h5>Steps to Calculate ROI</h5>
+        <ol>
+            <li><strong>Determine Your Bet Amount:</strong> Let's say you are betting $100.</li>
+            <li><strong>Find the Consensus No-Vig Odds:</strong> For example, if the consensus no-vig odds are +250, this means that for every $100 wagered, you would win $250.</li>
+            <li><strong>Calculate Potential Profit from Your Bet:</strong>
+                <div class="formula">
+                    Potential Profit = (Consensus No-Vig Odds / 100) * Bet Amount
+                </div>
+                <p>Example: If your no-vig odds are +250, potential profit = (250 / 100) * 100 = $250.</p>
+            </li>
+            <li><strong>Calculate the Expected Value (EV):</strong>
+                <div class="formula">
+                    EV = (Probability of Winning * Potential Profit) - (Probability of Losing * Bet Amount)
+                </div>
+                <p>You'll need to estimate the probability of winning. For instance, if you believe you have a 40% chance of winning, your EV would be:</p>
+                <p>EV = (0.40 * 250) - (0.60 * 100) = $100 - $60 = $40.</p>
+            </li>
+            <li><strong>Calculate Total Profit:</strong>
+                <p>Total Profit = EV (if the bet wins) or -Bet Amount (if the bet loses).</p>
+                <ul>
+                    <li>If you win: Total Profit = $250 - $100 = $150.</li>
+                    <li>If you lose: Total Profit = -$100.</li>
+                </ul>
+            </li>
+            <li><strong>Calculate ROI:</strong>
+                <p>Use the ROI formula from Step 2.</p>
+                <ul>
+                    <li>If the bet wins: ROI = ($150 / $100) * 100 = 150%.</li>
+                    <li>If the bet loses: ROI = (-$100 / $100) * 100 = -100%.</li>
+                </ul>
+            </li>
+        </ol>
+
+        <h5>Example</h5>
+        <p>Let's summarize with an example:</p>
+        <ul>
+            <li>Bet Amount: $100</li>
+            <li>Consensus No-Vig Odds: +250</li>
+            <li>Probability of Winning: 40%</li>
+            <li>Potential Profit = $250</li>
+            <li>EV = (0.40 * 250) - (0.60 * 100) = $40</li>
+            <li>If you win: ROI = ($150 / $100) * 100 = 150%.</li>
+            <li>If you lose: ROI = (-$100 / $100) * 100 = -100%.</li>
+        </ul>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="js_ev_research.js"></script>
+</body>
+</html>

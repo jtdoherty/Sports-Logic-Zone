@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arbitrage Bet Finder Tool</title>
+  <link rel="stylesheet" href="css_arbitrage_research.css">
+</head>
+<body>
+  <!-- Navbar Section -->
+  <nav class="navbar">
+    <div class="container">
+      <div class="navbar-header">
+        <a href="C:\Git\arbitrage_research\html_homepage_research.html" class="logo">JTD</a>
+        <button class="menu-toggle" onclick="toggleMenu()">
+          <img id="menu-icon" src="menu-icon.png" alt="Menu">
+        </button>
+      </div>
+      <div class="navbar-links" id="navbar-links">
+        <a href="C:\Git\arbitrage_research\html_homepage_research.html" class="nav-link">Home</a>
+        <a href="html_arbitrage_research.html" class="nav-link">Arbitrage</a>
+        <a href="html_ev_research.html" class="nav-link">+EV</a>
+        <a href="C:\Git\arbitrage_research\html_contact_research.html" class="nav-link">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content Section -->
+  <div class="container">
+    <h1 class="title">Arbitrage Bet Finder Tool</h1>
+    <p class="description">
+      We continuously monitor odds from online sportsbooks to identify arbitrage betting opportunities, covering both pre-game and live bets.<br> <br> 
+       For help calculating the numbers and guaranteeing a profit, check out <a href="https://arbitragecalc.com/" target="_blank">this Arbitrage Calculator</a>.
+    </p>
+
+    <div class="controls">
+      <div class="buttons">
+        <button id="pre-game-btn" class="active">Pre-Game</button>
+      </div>
+      <div id="lastFoundAt"></div>
+    </div>
+
+    <table class="bet-table">
+      <thead>
+        <tr>
+          <th>EVENT</th>
+          <th>BET 1</th>
+          <th>BET 2</th>
+          <th>ROI</th>
+        </tr>
+      </thead>
+      <tbody id="bet-body">
+        <!-- Bets will be inserted here by JavaScript -->
+      </tbody>
+    </table>
+
+    <div class="info">
+      <h2>How Our Arbitrage Bet Finder Tool Works</h2>
+      <p>
+        Our tool monitors sportsbooks for arbitrage betting opportunities by checking odds. An arbitrage bet occurs when the combined odds of both sides of a bet result in a positive number, ensuring a guaranteed profit by betting on both sides.
+      </p>
+      <p>
+        To use the tool, check the table showing available arb bets. You’ll find:
+      </p>
+      <ul>
+        <li><strong>Event:</strong> Game, league, date, and time.</li>
+        <li><strong>Bet 1 and Bet 2:</strong> The sportsbook, line, and odds for each side.</li>
+        <li><strong>ROI:</strong> The percentage return on your investment.</li>
+      </ul>
+
+      <h2>How Arbitrage Betting Works</h2>
+      <p>
+        Arbitrage betting involves placing bets on both sides of a game at different sportsbooks when there are price discrepancies, ensuring a profit regardless of the outcome. Though profits can be small and opportunities hard to find, using arbitrage betting software simplifies the process.
+      </p>
+
+      <h2>Examples of Arbitrage Betting</h2>
+      <p>
+        For instance, if DraftKings offers the Yankees at +110 and the Red Sox at -105, and FanDuel offers the reverse odds, betting $100 on each side guarantees a profit. By betting on both the Yankees and Red Sox at opposite sportsbooks, you lock in a return regardless of the outcome.
+      </p>
+
+      <h2>How to Find Arbitrage Opportunities</h2>
+      <p>
+        Identifying favorable pricing requires constant monitoring of multiple sportsbooks. Comparing odds, watching line movements, and taking advantage of promotions or free bets can also reveal arbitrage opportunities.
+      </p>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="js_arbitrage_research.js"></script>
+</body>
+</html>

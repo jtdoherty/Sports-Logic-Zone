@@ -1,0 +1,199 @@
+/* General body styles */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #2C3E50, #34495E); /* Updated gradient background */
+  color: #fff; /* Changed text color to white for better contrast */
+  margin: 0;
+  padding: 0;
+}
+
+/* Container and layout */
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Title and description */
+.title {
+  font-size: 2.5rem; /* Increased title size */
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #fff; /* Updated title color */
+}
+
+.description {
+  margin-bottom: 1.5rem;
+  color: #dcdcdc; /* Light grey for description */
+}
+
+/* Controls section */
+.controls {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+/* Buttons */
+.buttons button {
+  padding: 0.5rem 1.5rem; /* Increased padding for buttons */
+  margin-right: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px; /* Added rounded corners */
+  transition: background-color 0.3s ease, transform 0.2s; /* Added transition for hover effect */
+}
+
+button.active {
+  background-color: #4682B4; /* Steel Blue for active button */
+  color: #fff; /* White text for active button */
+}
+
+button:not(.active) {
+  background-color: #34495E; /* Dark Slate Grey for inactive button */
+  color: #fff; /* White text for inactive button */
+}
+
+button:hover {
+  background-color: #2C3E50; /* Midnight Blue on hover */
+  color: #fff; /* White text on hover */
+  transform: scale(1.05); /* Slightly enlarge button on hover */
+}
+
+/* Dropdown styles */
+.dropdowns select {
+  padding: 0.5rem;
+  margin-left: 10px;
+}
+
+/* Bet table styles */
+.bet-table {
+  width: 100%;
+  border-collapse: collapse; /* Keep this to manage borders */
+  margin-bottom: 1.5rem;
+}
+
+.bet-table th, .bet-table td {
+  border: none; /* Remove column borders */
+  padding: 12px; /* Padding for table cells */
+}
+
+.bet-table th {
+  background-color: #4682B4; /* Steel Blue for table header */
+  color: white;
+}
+
+.bet-table tr {
+  border-bottom: 1px solid #ccc; /* Add a bottom border for each row */
+}
+
+.bet-table tr:nth-child(even) {
+  background-color: #34495E; /* Dark Slate Grey for even rows */
+}
+
+.bet-table tr:hover {
+  background-color: #2C3E50; /* Midnight Blue for row hover */
+}
+
+.bet-table td {
+  background-color: #1C1C1C; /* Charcoal for table cells */
+  color: #fff; /* White text for table cells */
+}
+
+.bet-table .roi {
+  color: #00FF00; /* Keeping ROI green for visibility */
+  font-weight: bold; /* Bold ROI for emphasis */
+}
+
+/* Info section */
+.info {
+  margin-top: 2rem;
+  padding: 20px; /* Added padding for better spacing */
+  background-color: #1C1C1C; /* Charcoal for info section */
+  border-radius: 10px; /* Rounded corners for info section */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Added shadow for depth */
+}
+
+h2 {
+  font-size: 1.8rem; /* Increased heading size */
+  color: #fff; /* Updated heading color */
+}
+
+p {
+  margin-bottom: 1rem;
+  color: #dcdcdc; /* Light grey for paragraph text */
+}
+
+/* Navbar styles */
+.navbar {
+  background-color: #34495E; /* Dark Slate Grey for navbar */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  padding: 16px 0;
+}
+
+.navbar .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff; /* White logo color */
+}
+
+.menu-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: none;
+}
+
+#menu-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #dcdcdc; /* Light grey for nav links */
+  padding: 8px 12px;
+  transition: background-color 0.3s ease;
+}
+
+.nav-link:hover {
+  background-color: #2C3E50; /* Midnight Blue on hover */
+  color: #fff; /* White text on hover */
+}
+
+@media (max-width: 768px) {
+  .navbar-links {
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    right: 0;
+    background-color: white;
+    padding: 20px;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+}
+
+.centered {
+    text-align: center;
+}
