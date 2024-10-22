@@ -5,7 +5,7 @@ import json
 url = "https://sportsbook-api2.p.rapidapi.com/v0/advantages/"
 querystring = {"type": "ARBITRAGE"}
 headers = {
-    "x-rapidapi-key": "ef3058b4a2mshe108ada4b6202dep181435jsnc8563910c50c",
+    "x-rapidapi-key": "RAPIDAPI_KEY1",
     "x-rapidapi-host": "sportsbook-api2.p.rapidapi.com"
 }
 
