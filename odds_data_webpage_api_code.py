@@ -76,7 +76,7 @@ if 'advantages' in data and data['advantages']:
     json_data = df.to_json(orient='records')
 
     # Update the JSON file
-    json_file_path = "research/output7.json"
+    json_file_path = "output7.json"
     with open(json_file_path, 'w') as f:
         json.dump(json.loads(json_data), f, indent=4)
 
