@@ -50,7 +50,7 @@ function populateTable(bets) {
                         <small>${bet.sport}</small>
                     </td>
                     <td>
-                        <strong>${bet.participant[0]}</strong><br>
+                        <strong>${bet.participants[0]}</strong><br>
                         <small>${bet.type}</small><br>
                         <small>${bet.source}</small>
                     </td>
