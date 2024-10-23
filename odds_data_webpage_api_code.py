@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import json
 
 # Define the API URL and parameters for PLUS_EV_AVERAGE
 url = "https://sportsbook-api2.p.rapidapi.com/v0/advantages/"
