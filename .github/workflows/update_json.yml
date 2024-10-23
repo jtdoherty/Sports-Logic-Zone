@@ -1,4 +1,4 @@
-name: Update JSON Files
+name: Update JSON File
 
 on:
   schedule:
@@ -25,23 +25,17 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pandas PyGithub  # Add other dependencies if needed
+          pip install requests pandas PyGithub
 
-      - name: Run first script
+      - name: Run script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided by GitHub
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY2 }}  # Your custom RapidAPI Key secret
-        run: python odds_data_webpage_api_code.py  # Your first script
-
-      - name: Run second script
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided by GitHub
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY1 }}  # Your custom RapidAPI Key secret
-        run: python arbitrage_research_api.py  # Your second script
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: python odds_data_webpage_api_code.py
 
       - name: Commit and push changes
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add output7.json filtered_data.json  # Replace with your actual output file names
+          git add output7.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update JSON data [skip ci]" && git push)
