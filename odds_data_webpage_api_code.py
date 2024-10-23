@@ -69,10 +69,14 @@ if 'advantages' in data and data['advantages']:
     # Convert the list of filtered data to a DataFrame
     df = pd.DataFrame(filtered_data_list)
 
-    # Save the DataFrame to a JSON file
-    json_file_path = r'output7.json'  # Specify the full path for the output file
-    df.to_json(json_file_path, orient='records', lines=True)
+    # Convert DataFrame to JSON
+    json_data = df.to_json(orient='records')
 
-    print(f"Data saved to {json_file_path}")
+    # Update the JSON file
+    json_file_path = "output7.json"
+    with open(json_file_path, 'w') as f:
+        json.dump(json.loads(json_data), f, indent=4)
+
+    print(f"JSON file updated: {json_file_path}")
 else:
     print("No advantages available for PLUS_EV_AVERAGE.")
