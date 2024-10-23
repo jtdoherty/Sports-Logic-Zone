@@ -1,8 +1,5 @@
 import requests
 import pandas as pd
-import json
-import os
-from github import Github
 
 # Define the API URL and parameters for PLUS_EV_AVERAGE
 url = "https://sportsbook-api2.p.rapidapi.com/v0/advantages/"
@@ -10,7 +7,7 @@ querystring = {"type": "PLUS_EV_AVERAGE"}
 
 # Define the headers for the request
 headers = {
-    "x-rapidapi-key": os.environ['RAPIDAPI_KEY1'],
+    "x-rapidapi-key": "RAPIDAPI_KEY2",
     "x-rapidapi-host": "sportsbook-api2.p.rapidapi.com"
 }
 
@@ -72,14 +69,10 @@ if 'advantages' in data and data['advantages']:
     # Convert the list of filtered data to a DataFrame
     df = pd.DataFrame(filtered_data_list)
 
-    # Convert DataFrame to JSON
-    json_data = df.to_json(orient='records')
+    # Save the DataFrame to a JSON file
+    json_file_path = r'C:\Git\output7.json'  # Specify the full path for the output file
+    df.to_json(json_file_path, orient='records', lines=True)
 
-    # Update the JSON file
-    json_file_path = "output7.json"
-    with open(json_file_path, 'w') as f:
-        json.dump(json.loads(json_data), f, indent=4)
-
-    print(f"JSON file updated: {json_file_path}")
+    print(f"Data saved to {json_file_path}")
 else:
     print("No advantages available for PLUS_EV_AVERAGE.")
