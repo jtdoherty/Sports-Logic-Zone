@@ -30,7 +30,7 @@ jobs:
       - name: Run script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY2 }}
         run: python odds_data_webpage_api_code.py
 
       - name: Commit and push changes
