@@ -1,7 +1,7 @@
 // Function to fetch data from the specific JSON file
 async function fetchArbitrageData() {
     try {
-        const response = await fetch('filtered_arbitrage_data.json'); // Ensure this path is correct
+        const response = await fetch('filtered_data.json'); // Ensure this path is correct
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
