@@ -1,6 +1,8 @@
 import requests
 import pandas as pd
 import json
+import os
+from github import Github
 
 # Define the API URL and parameters for PLUS_EV_AVERAGE
 url = "https://sportsbook-api2.p.rapidapi.com/v0/advantages/"
@@ -8,7 +10,7 @@ querystring = {"type": "PLUS_EV_AVERAGE"}
 
 # Define the headers for the request
 headers = {
-    "x-rapidapi-key": "RAPIDAPI_KEY2",
+    "x-rapidapi-key": os.environ['RAPIDAPI_KEY'],
     "x-rapidapi-host": "sportsbook-api2.p.rapidapi.com"
 }
 
