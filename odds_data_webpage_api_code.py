@@ -7,7 +7,7 @@ querystring = {"type": "PLUS_EV_AVERAGE"}
 
 # Define the headers for the request
 headers = {
-    "x-rapidapi-key": "RAPIDAPI_KEY2",
+    "x-rapidapi-key": "RAPIDAPI_KEY1",
     "x-rapidapi-host": "sportsbook-api2.p.rapidapi.com"
 }
 
@@ -70,7 +70,7 @@ if 'advantages' in data and data['advantages']:
     df = pd.DataFrame(filtered_data_list)
 
     # Save the DataFrame to a JSON file
-    json_file_path = r'C:\Git\output7.json'  # Specify the full path for the output file
+    json_file_path = r'output7.json'  # Specify the full path for the output file
     df.to_json(json_file_path, orient='records', lines=True)
 
     print(f"Data saved to {json_file_path}")
