@@ -37,7 +37,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided by GitHub
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY1 }}  # Your custom RapidAPI Key secret
-        run:  python odds_data_webpage_api_code.py  # Your second script
+        run: python odds_data_webpage_api_code.py  # Your second script
 
       - name: Commit and push changes
         run: |
