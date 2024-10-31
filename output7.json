@@ -1,208 +1,48 @@
 [
     {
-        "key": "L4fr-ykFx-Qf6Q",
+        "key": "0NOr-ykFx-QSnb",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Memphis @ UTSA",
-        "participants": [
-            "Memphis",
-            "UTSA"
-        ],
-        "outcome_payout": 3.3,
-        "source": "BOVADA",
-        "participant": "UTSA",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 30.744171,
-        "profit_potential": 230.0,
-        "EV": 1.4557643,
-        "event_start_time": "2024-11-02T16:00:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "PPn5-ykFx-b2RH",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Toledo @ Eastern Michigan",
-        "participants": [
-            "Eastern Michigan",
-            "Toledo"
-        ],
-        "outcome_payout": 3.85,
-        "source": "BOVADA",
-        "participant": "Eastern Michigan",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 26.125583,
-        "profit_potential": 285.0,
-        "EV": 0.58349455,
-        "event_start_time": "2024-11-02T17:00:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "x98n-ykFx-c39B",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Texas Tech @ Iowa State",
-        "participants": [
-            "Iowa State",
-            "Texas Tech"
-        ],
-        "outcome_payout": 5.1,
-        "source": "BOVADA",
-        "participant": "Texas Tech",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 19.877334,
-        "profit_potential": 410.0,
-        "EV": 1.3744034,
-        "event_start_time": "2024-11-02T19:30:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "xoeZ-ykFx-Folp",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Texas Tech @ Iowa State",
-        "participants": [
-            "Iowa State",
-            "Texas Tech"
-        ],
-        "outcome_payout": 5.1,
-        "source": "DRAFT_KINGS",
-        "participant": "Texas Tech",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 19.877334,
-        "profit_potential": 410.0,
-        "EV": 1.3744034,
-        "event_start_time": "2024-11-02T19:30:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "TRSo-ykFw-bu9K",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE_3WAY",
-        "market_name": "Arsenal FC @ Newcastle United",
+        "market_name": "Angers @ Monaco",
         "participants": [
-            "Arsenal FC",
-            "Newcastle United"
+            "Monaco",
+            "Angers"
         ],
-        "outcome_payout": 4.0,
+        "outcome_payout": 14.0,
         "source": "BET_RIVERS",
-        "participant": "Newcastle United",
+        "participant": "Angers",
         "sport": "SOCCER",
-        "implied_probability": 25.050348,
-        "profit_potential": 300.0,
-        "EV": 0.201392,
-        "event_start_time": "2024-11-02T12:30:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
+        "implied_probability": 7.724435,
+        "profit_potential": 1300.0,
+        "EV": 8.14209,
+        "event_start_time": "2024-11-01T18:00:00.000Z",
+        "competition_instance_name": "2024-25 French Ligue 1"
     },
     {
-        "key": "BkUv-ykFx-9dNK",
+        "key": "1PYU-ykFx-qLZa",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Georgia State @ UConn",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Paris St Germain @ Angers",
         "participants": [
-            "Georgia State",
-            "UConn"
+            "Paris St Germain",
+            "Angers"
         ],
-        "outcome_payout": 3.6,
-        "source": "FAN_DUEL",
-        "participant": "Georgia State",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 28.470472,
-        "profit_potential": 260.0,
-        "EV": 2.4936992,
-        "event_start_time": "2024-11-01T23:00:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "qXh1-ykFx-oXjZ",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Vanderbilt @ Auburn",
-        "participants": [
-            "Vanderbilt",
-            "Auburn"
-        ],
-        "outcome_payout": 3.5,
-        "source": "BOVADA",
-        "participant": "Vanderbilt",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 29.202195,
-        "profit_potential": 250.0,
-        "EV": 2.2076825,
-        "event_start_time": "2024-11-02T17:00:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "zvBi-ykFx-ClrN",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Georgia State @ UConn",
-        "participants": [
-            "Georgia State",
-            "UConn"
-        ],
-        "outcome_payout": 3.65,
-        "source": "BOVADA",
-        "participant": "Georgia State",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 28.470472,
-        "profit_potential": 265.0,
-        "EV": 3.9172228,
-        "event_start_time": "2024-11-01T23:00:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "iqqE-ykFw-Mdos",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "POINT_SPREAD",
-        "market_name": "Florida Panthers @ Dallas Stars",
-        "participants": [
-            "Dallas Stars",
-            "Florida Panthers"
-        ],
-        "outcome_payout": 3.35,
-        "source": "FAN_DUEL",
-        "participant": "Dallas Stars",
-        "sport": "ICE_HOCKEY",
-        "implied_probability": 30.086184,
-        "profit_potential": 235.0,
-        "EV": 0.7887164,
-        "event_start_time": "2024-11-01T18:10:00.000Z",
-        "competition_instance_name": "2024-25 National Hockey League"
-    },
-    {
-        "key": "OUoH-ykFw-LCha",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "POINT_SPREAD",
-        "market_name": "New York Islanders @ Buffalo Sabres",
-        "participants": [
-            "Buffalo Sabres",
-            "New York Islanders"
-        ],
-        "outcome_payout": 3.1,
-        "source": "DRAFT_KINGS",
-        "participant": "Buffalo Sabres",
-        "sport": "ICE_HOCKEY",
-        "implied_probability": 32.524378,
-        "profit_potential": 210.0,
-        "EV": 0.8255718,
-        "event_start_time": "2024-11-01T23:00:00.000Z",
-        "competition_instance_name": "2024-25 National Hockey League"
+        "outcome_payout": 11.5,
+        "source": "BET_PARX",
+        "participant": "Angers",
+        "sport": "SOCCER",
+        "implied_probability": 9.024439,
+        "profit_potential": 1050.0,
+        "EV": 3.7810485,
+        "event_start_time": "2024-11-09T20:00:00.000Z",
+        "competition_instance_name": "2024-25 French Ligue 1"
     },
     {
         "key": "7u1M-ykFx-3uNp",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE",
         "market_name": "UMass @ Mississippi State",
         "participants": [
@@ -220,9 +60,449 @@
         "competition_instance_name": "2024 NCAA Division I Football"
     },
     {
+        "key": "0FoL-ykFx-eV0I",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Duke @ Miami (FL)",
+        "participants": [
+            "Miami (FL)",
+            "Duke"
+        ],
+        "outcome_payout": 9.5,
+        "source": "DRAFT_KINGS",
+        "participant": "Duke",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 10.607619,
+        "profit_potential": 850.0,
+        "EV": 0.7723805,
+        "event_start_time": "2024-11-02T16:00:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "B5VO-ykFx-Fk5N",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Angers @ Monaco",
+        "participants": [
+            "Monaco",
+            "Angers"
+        ],
+        "outcome_payout": 13.0,
+        "source": "BET_PARX",
+        "participant": "Angers",
+        "sport": "SOCCER",
+        "implied_probability": 7.724435,
+        "profit_potential": 1200.0,
+        "EV": 0.417655,
+        "event_start_time": "2024-11-01T18:00:00.000Z",
+        "competition_instance_name": "2024-25 French Ligue 1"
+    },
+    {
+        "key": "fv6k-ykFx-WmWr",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "AS Saint-Etienne @ Olympique Lyon",
+        "participants": [
+            "Olympique Lyon",
+            "AS Saint-Etienne"
+        ],
+        "outcome_payout": 9.5,
+        "source": "BET_RIVERS",
+        "participant": "AS Saint-Etienne",
+        "sport": "SOCCER",
+        "implied_probability": 11.137385,
+        "profit_potential": 850.0,
+        "EV": 5.8051575,
+        "event_start_time": "2024-11-10T19:45:00.000Z",
+        "competition_instance_name": "2024-25 French Ligue 1"
+    },
+    {
+        "key": "lk90-ykFx-siam",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Auxerre @ Olympique Marseille",
+        "participants": [
+            "Olympique Marseille",
+            "Auxerre"
+        ],
+        "outcome_payout": 7.5,
+        "source": "BET_PARX",
+        "participant": "Auxerre",
+        "sport": "SOCCER",
+        "implied_probability": 13.60598,
+        "profit_potential": 650.0,
+        "EV": 2.04485,
+        "event_start_time": "2024-11-08T19:45:00.000Z",
+        "competition_instance_name": "2024-25 French Ligue 1"
+    },
+    {
+        "key": "RcuO-ykFx-KmZ3",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Auxerre @ Olympique Marseille",
+        "participants": [
+            "Olympique Marseille",
+            "Auxerre"
+        ],
+        "outcome_payout": 7.5,
+        "source": "BET_RIVERS",
+        "participant": "Auxerre",
+        "sport": "SOCCER",
+        "implied_probability": 13.60598,
+        "profit_potential": 650.0,
+        "EV": 2.04485,
+        "event_start_time": "2024-11-08T19:45:00.000Z",
+        "competition_instance_name": "2024-25 French Ligue 1"
+    },
+    {
+        "key": "SmLW-ykFx-f7Nl",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Olympique Marseille @ Nantes",
+        "participants": [
+            "Olympique Marseille",
+            "Nantes"
+        ],
+        "outcome_payout": 4.0,
+        "source": "BET_RIVERS",
+        "participant": "Nantes",
+        "sport": "SOCCER",
+        "implied_probability": 25.153792,
+        "profit_potential": 300.0,
+        "EV": 0.615168,
+        "event_start_time": "2024-11-03T19:45:00.000Z",
+        "competition_instance_name": "2024-25 French Ligue 1"
+    },
+    {
+        "key": "ZkRz-ykFx-F0bp",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Paris St Germain @ Angers",
+        "participants": [
+            "Paris St Germain",
+            "Angers"
+        ],
+        "outcome_payout": 12.0,
+        "source": "BET_RIVERS",
+        "participant": "Angers",
+        "sport": "SOCCER",
+        "implied_probability": 9.024439,
+        "profit_potential": 1100.0,
+        "EV": 8.293268,
+        "event_start_time": "2024-11-09T20:00:00.000Z",
+        "competition_instance_name": "2024-25 French Ligue 1"
+    },
+    {
+        "key": "iqqE-ykFw-Mdos",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "POINT_SPREAD",
+        "market_name": "Florida Panthers @ Dallas Stars",
+        "participants": [
+            "Dallas Stars",
+            "Florida Panthers"
+        ],
+        "outcome_payout": 3.35,
+        "source": "FAN_DUEL",
+        "participant": "Dallas Stars",
+        "sport": "ICE_HOCKEY",
+        "implied_probability": 30.086184,
+        "profit_potential": 235.0,
+        "EV": 0.7887164,
+        "event_start_time": "2024-11-01T18:10:00.000Z",
+        "competition_instance_name": "2024-25 National Hockey League"
+    },
+    {
+        "key": "o4AC-ykFx-DdmR",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Como @ Empoli",
+        "participants": [
+            "Empoli",
+            "Como"
+        ],
+        "outcome_payout": 2.8,
+        "source": "BET_RIVERS",
+        "participant": "Como",
+        "sport": "SOCCER",
+        "implied_probability": 36.01162,
+        "profit_potential": 180.0,
+        "EV": 0.832536,
+        "event_start_time": "2024-11-04T17:30:00.000Z",
+        "competition_instance_name": "2024-25 Italian Serie A"
+    },
+    {
+        "key": "OUoH-ykFw-LCha",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "POINT_SPREAD",
+        "market_name": "New York Islanders @ Buffalo Sabres",
+        "participants": [
+            "Buffalo Sabres",
+            "New York Islanders"
+        ],
+        "outcome_payout": 3.1,
+        "source": "DRAFT_KINGS",
+        "participant": "Buffalo Sabres",
+        "sport": "ICE_HOCKEY",
+        "implied_probability": 32.524378,
+        "profit_potential": 210.0,
+        "EV": 0.8255718,
+        "event_start_time": "2024-11-01T23:00:00.000Z",
+        "competition_instance_name": "2024-25 National Hockey League"
+    },
+    {
+        "key": "WYS1-ykFx-ZaVC",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Air Force @ Army",
+        "participants": [
+            "Air Force",
+            "Army"
+        ],
+        "outcome_payout": 15.0,
+        "source": "FAN_DUEL",
+        "participant": "Air Force",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 7.958771,
+        "profit_potential": 1400.0,
+        "EV": 19.381565,
+        "event_start_time": "2024-11-02T16:00:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "PPn5-ykFx-b2RH",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Toledo @ Eastern Michigan",
+        "participants": [
+            "Eastern Michigan",
+            "Toledo"
+        ],
+        "outcome_payout": 3.85,
+        "source": "BOVADA",
+        "participant": "Eastern Michigan",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 26.125583,
+        "profit_potential": 285.0,
+        "EV": 0.58349455,
+        "event_start_time": "2024-11-02T17:00:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "qXh1-ykFx-oXjZ",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Vanderbilt @ Auburn",
+        "participants": [
+            "Vanderbilt",
+            "Auburn"
+        ],
+        "outcome_payout": 3.5,
+        "source": "BOVADA",
+        "participant": "Vanderbilt",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 29.202195,
+        "profit_potential": 250.0,
+        "EV": 2.2076825,
+        "event_start_time": "2024-11-02T17:00:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "4GgR-ykFx-QCjm",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "AS Saint-Etienne @ Olympique Lyon",
+        "participants": [
+            "Olympique Lyon",
+            "AS Saint-Etienne"
+        ],
+        "outcome_payout": 9.5,
+        "source": "BET_PARX",
+        "participant": "AS Saint-Etienne",
+        "sport": "SOCCER",
+        "implied_probability": 11.137385,
+        "profit_potential": 850.0,
+        "EV": 5.8051575,
+        "event_start_time": "2024-11-10T19:45:00.000Z",
+        "competition_instance_name": "2024-25 French Ligue 1"
+    },
+    {
+        "key": "89HL-ykFw-CsFm",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Espanyol @ Barcelona",
+        "participants": [
+            "Barcelona",
+            "Espanyol"
+        ],
+        "outcome_payout": 19.0,
+        "source": "BOVADA",
+        "participant": "Espanyol",
+        "sport": "SOCCER",
+        "implied_probability": 5.566432,
+        "profit_potential": 1800.0,
+        "EV": 5.762208,
+        "event_start_time": "2024-11-03T15:15:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
+    },
+    {
+        "key": "p4FQ-ykFw-QKg4",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Legan\u00e9s @ Girona",
+        "participants": [
+            "Girona",
+            "Legan\u00e9s"
+        ],
+        "outcome_payout": 6.0,
+        "source": "BET_RIVERS",
+        "participant": "Legan\u00e9s",
+        "sport": "SOCCER",
+        "implied_probability": 16.937933,
+        "profit_potential": 500.0,
+        "EV": 1.627598,
+        "event_start_time": "2024-11-02T15:15:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
+    },
+    {
+        "key": "S6dT-ykFx-h6Ob",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Las Palmas @ Atletico Madrid",
+        "participants": [
+            "Atletico Madrid",
+            "Las Palmas"
+        ],
+        "outcome_payout": 11.0,
+        "source": "BET_PARX",
+        "participant": "Las Palmas",
+        "sport": "SOCCER",
+        "implied_probability": 9.370309,
+        "profit_potential": 1000.0,
+        "EV": 3.073399,
+        "event_start_time": "2024-11-03T13:00:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
+    },
+    {
+        "key": "TfH9-ykFw-Sbk9",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Espanyol @ Barcelona",
+        "participants": [
+            "Barcelona",
+            "Espanyol"
+        ],
+        "outcome_payout": 20.0,
+        "source": "BET_RIVERS",
+        "participant": "Espanyol",
+        "sport": "SOCCER",
+        "implied_probability": 5.566432,
+        "profit_potential": 1900.0,
+        "EV": 11.32864,
+        "event_start_time": "2024-11-03T15:15:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
+    },
+    {
+        "key": "uHLj-ykFx-Eg1f",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Arizona @ UCF",
+        "participants": [
+            "Arizona",
+            "UCF"
+        ],
+        "outcome_payout": 3.0,
+        "source": "BOVADA",
+        "participant": "Arizona",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 33.405286,
+        "profit_potential": 200.0,
+        "EV": 0.215858,
+        "event_start_time": "2024-11-02T19:30:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "VB5m-ykFx-bwGB",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Las Palmas @ Atletico Madrid",
+        "participants": [
+            "Atletico Madrid",
+            "Las Palmas"
+        ],
+        "outcome_payout": 11.0,
+        "source": "BET_RIVERS",
+        "participant": "Las Palmas",
+        "sport": "SOCCER",
+        "implied_probability": 9.370309,
+        "profit_potential": 1000.0,
+        "EV": 3.073399,
+        "event_start_time": "2024-11-03T13:00:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
+    },
+    {
+        "key": "WnBk-ykFw-wVcd",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Espanyol @ Barcelona",
+        "participants": [
+            "Barcelona",
+            "Espanyol"
+        ],
+        "outcome_payout": 19.0,
+        "source": "BET_PARX",
+        "participant": "Espanyol",
+        "sport": "SOCCER",
+        "implied_probability": 5.566432,
+        "profit_potential": 1800.0,
+        "EV": 5.762208,
+        "event_start_time": "2024-11-03T15:15:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
+    },
+    {
+        "key": "Wfv6-ykFx-aQJU",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "LA Galaxy @ Colorado Rapids",
+        "participants": [
+            "Colorado Rapids",
+            "LA Galaxy"
+        ],
+        "outcome_payout": 4.4,
+        "source": "FAN_DUEL",
+        "participant": null,
+        "sport": null,
+        "implied_probability": 22.998919,
+        "profit_potential": 340.0,
+        "EV": 1.1952436,
+        "event_start_time": "2024-11-02T01:30:00.000Z",
+        "competition_instance_name": "2024 Major League Soccer"
+    },
+    {
         "key": "Bmre-ykFx-k0Ri",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE",
         "market_name": "Hawaii @ Fresno State",
         "participants": [
@@ -242,7 +522,7 @@
     {
         "key": "cGa2-ykFx-eJFO",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE",
         "market_name": "Wyoming @ New Mexico",
         "participants": [
@@ -260,69 +540,9 @@
         "competition_instance_name": "2024 NCAA Division I Football"
     },
     {
-        "key": "gBwI-ykFx-yoqA",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "San Diego State @ Boise State",
-        "participants": [
-            "San Diego State",
-            "Boise State"
-        ],
-        "outcome_payout": 13.0,
-        "source": "ESPN_BET",
-        "participant": "San Diego State",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 7.879414,
-        "profit_potential": 1200.0,
-        "EV": 2.432382,
-        "event_start_time": "2024-11-02T00:00:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "giZh-ykFx-aIOV",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "San Diego State @ Boise State",
-        "participants": [
-            "San Diego State",
-            "Boise State"
-        ],
-        "outcome_payout": 13.0,
-        "source": "BET_PARX",
-        "participant": "San Diego State",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 7.879414,
-        "profit_potential": 1200.0,
-        "EV": 2.432382,
-        "event_start_time": "2024-11-02T00:00:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "JAFk-ykFx-zOjS",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "San Diego State @ Boise State",
-        "participants": [
-            "San Diego State",
-            "Boise State"
-        ],
-        "outcome_payout": 13.0,
-        "source": "DRAFT_KINGS",
-        "participant": "San Diego State",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 7.879414,
-        "profit_potential": 1200.0,
-        "EV": 2.432382,
-        "event_start_time": "2024-11-02T00:00:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
         "key": "ONgx-ykFx-9QCX",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE",
         "market_name": "UMass @ Mississippi State",
         "participants": [
@@ -342,7 +562,7 @@
     {
         "key": "PHEw-ykFx-7lbP",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE",
         "market_name": "Kentucky @ Tennessee",
         "participants": [
@@ -360,169 +580,469 @@
         "competition_instance_name": "2024 NCAA Division I Football"
     },
     {
-        "key": "uHLj-ykFx-Eg1f",
+        "key": "gBwI-ykFx-yoqA",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE",
-        "market_name": "Arizona @ UCF",
+        "market_name": "San Diego State @ Boise State",
         "participants": [
-            "Arizona",
-            "UCF"
+            "San Diego State",
+            "Boise State"
         ],
-        "outcome_payout": 3.0,
-        "source": "BOVADA",
-        "participant": "Arizona",
+        "outcome_payout": 13.0,
+        "source": "ESPN_BET",
+        "participant": "San Diego State",
         "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 33.405286,
-        "profit_potential": 200.0,
-        "EV": 0.215858,
-        "event_start_time": "2024-11-02T19:30:00.000Z",
+        "implied_probability": 7.879414,
+        "profit_potential": 1200.0,
+        "EV": 2.432382,
+        "event_start_time": "2024-11-02T00:00:00.000Z",
         "competition_instance_name": "2024 NCAA Division I Football"
     },
     {
-        "key": "WYS1-ykFx-ZaVC",
+        "key": "giZh-ykFx-aIOV",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE",
-        "market_name": "Air Force @ Army",
+        "market_name": "San Diego State @ Boise State",
         "participants": [
-            "Air Force",
-            "Army"
+            "San Diego State",
+            "Boise State"
         ],
-        "outcome_payout": 15.0,
-        "source": "FAN_DUEL",
-        "participant": "Air Force",
+        "outcome_payout": 13.0,
+        "source": "BET_PARX",
+        "participant": "San Diego State",
         "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 7.958771,
-        "profit_potential": 1400.0,
-        "EV": 19.381565,
+        "implied_probability": 7.879414,
+        "profit_potential": 1200.0,
+        "EV": 2.432382,
+        "event_start_time": "2024-11-02T00:00:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "JAFk-ykFx-zOjS",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "San Diego State @ Boise State",
+        "participants": [
+            "San Diego State",
+            "Boise State"
+        ],
+        "outcome_payout": 13.0,
+        "source": "DRAFT_KINGS",
+        "participant": "San Diego State",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 7.879414,
+        "profit_potential": 1200.0,
+        "EV": 2.432382,
+        "event_start_time": "2024-11-02T00:00:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "L4fr-ykFx-Qf6Q",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Memphis @ UTSA",
+        "participants": [
+            "Memphis",
+            "UTSA"
+        ],
+        "outcome_payout": 3.3,
+        "source": "BOVADA",
+        "participant": "UTSA",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 30.744171,
+        "profit_potential": 230.0,
+        "EV": 1.4557643,
         "event_start_time": "2024-11-02T16:00:00.000Z",
         "competition_instance_name": "2024 NCAA Division I Football"
     },
     {
-        "key": "bzT4-ykFx-DB8Q",
+        "key": "irff-ykFx-3E1o",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Venezia @ Inter Milan",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Tampa Bay Buccaneers @ Kansas City Chiefs",
         "participants": [
-            "Inter Milan",
-            "Venezia"
+            "Kansas City Chiefs",
+            "Tampa Bay Buccaneers"
+        ],
+        "outcome_payout": 4.6,
+        "source": "DRAFT_KINGS",
+        "participant": "Tampa Bay Buccaneers",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 21.98271,
+        "profit_potential": 360.0,
+        "EV": 1.120466,
+        "event_start_time": "2024-11-05T01:15:00.000Z",
+        "competition_instance_name": "2024-25 National Football League"
+    },
+    {
+        "key": "yrrE-ykFx-UIpv",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Osasuna @ Real Madrid",
+        "participants": [
+            "Osasuna",
+            "Real Madrid"
+        ],
+        "outcome_payout": 17.0,
+        "source": "FAN_DUEL",
+        "participant": "Osasuna",
+        "sport": "SOCCER",
+        "implied_probability": 6.132206,
+        "profit_potential": 1600.0,
+        "EV": 4.247502,
+        "event_start_time": "2024-11-09T13:00:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
+    },
+    {
+        "key": "SIHc-ykFx-Ltyw",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Osasuna @ Real Madrid",
+        "participants": [
+            "Osasuna",
+            "Real Madrid"
+        ],
+        "outcome_payout": 20.0,
+        "source": "BET_PARX",
+        "participant": "Osasuna",
+        "sport": "SOCCER",
+        "implied_probability": 6.132206,
+        "profit_potential": 1900.0,
+        "EV": 22.64412,
+        "event_start_time": "2024-11-09T13:00:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
+    },
+    {
+        "key": "SN4J-ykFx-FTpS",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Osasuna @ Real Madrid",
+        "participants": [
+            "Osasuna",
+            "Real Madrid"
+        ],
+        "outcome_payout": 20.0,
+        "source": "BET_RIVERS",
+        "participant": "Osasuna",
+        "sport": "SOCCER",
+        "implied_probability": 6.132206,
+        "profit_potential": 1900.0,
+        "EV": 22.64412,
+        "event_start_time": "2024-11-09T13:00:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
+    },
+    {
+        "key": "EAQL-ykFx-Os8Q",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Osasuna @ Real Madrid",
+        "participants": [
+            "Osasuna",
+            "Real Madrid"
+        ],
+        "outcome_payout": 8.5,
+        "source": "BET_PARX",
+        "participant": null,
+        "sport": null,
+        "implied_probability": 12.11629,
+        "profit_potential": 750.0,
+        "EV": 2.988465,
+        "event_start_time": "2024-11-09T13:00:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
+    },
+    {
+        "key": "GAZx-ykFx-NAAi",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Osasuna @ Real Madrid",
+        "participants": [
+            "Osasuna",
+            "Real Madrid"
         ],
         "outcome_payout": 8.5,
         "source": "BET_RIVERS",
         "participant": null,
         "sport": null,
-        "implied_probability": 11.953572,
+        "implied_probability": 12.11629,
         "profit_potential": 750.0,
-        "EV": 1.605362,
-        "event_start_time": "2024-11-03T19:45:00.000Z",
-        "competition_instance_name": "2024-25 Italian Serie A"
+        "EV": 2.988465,
+        "event_start_time": "2024-11-09T13:00:00.000Z",
+        "competition_instance_name": "2024-25 Spanish La Liga"
     },
     {
-        "key": "H2WR-ykFx-DbGX",
+        "key": "HnPM-ykFx-WggG",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE_3WAY",
-        "market_name": "Venezia @ Inter Milan",
+        "market_name": "Norwich City @ Cardiff City",
         "participants": [
-            "Inter Milan",
-            "Venezia"
+            "Norwich City",
+            "Cardiff City"
         ],
-        "outcome_payout": 18.0,
-        "source": "BET_RIVERS",
-        "participant": "Venezia",
-        "sport": "SOCCER",
-        "implied_probability": 6.452543,
-        "profit_potential": 1700.0,
-        "EV": 16.145774,
-        "event_start_time": "2024-11-03T19:45:00.000Z",
-        "competition_instance_name": "2024-25 Italian Serie A"
-    },
-    {
-        "key": "hujN-ykFx-S4WI",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Venezia @ Inter Milan",
-        "participants": [
-            "Inter Milan",
-            "Venezia"
-        ],
-        "outcome_payout": 17.0,
-        "source": "BET_PARX",
-        "participant": "Venezia",
-        "sport": "SOCCER",
-        "implied_probability": 6.452543,
-        "profit_potential": 1600.0,
-        "EV": 9.693231,
-        "event_start_time": "2024-11-03T19:45:00.000Z",
-        "competition_instance_name": "2024-25 Italian Serie A"
-    },
-    {
-        "key": "o4AC-ykFx-DdmR",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Como @ Empoli",
-        "participants": [
-            "Empoli",
-            "Como"
-        ],
-        "outcome_payout": 2.8,
-        "source": "BET_RIVERS",
-        "participant": "Como",
-        "sport": "SOCCER",
-        "implied_probability": 36.01162,
-        "profit_potential": 180.0,
-        "EV": 0.832536,
-        "event_start_time": "2024-11-04T17:30:00.000Z",
-        "competition_instance_name": "2024-25 Italian Serie A"
-    },
-    {
-        "key": "wF7k-ykFx-kTqt",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Cagliari @ Lazio",
-        "participants": [
-            "Lazio",
-            "Cagliari"
-        ],
-        "outcome_payout": 7.0,
-        "source": "FAN_DUEL",
-        "participant": "Cagliari",
-        "sport": "SOCCER",
-        "implied_probability": 15.212442,
-        "profit_potential": 600.0,
-        "EV": 6.487094,
-        "event_start_time": "2024-11-04T19:45:00.000Z",
-        "competition_instance_name": "2024-25 Italian Serie A"
-    },
-    {
-        "key": "MDQ6-ykFx-NBhd",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Oregon @ Michigan",
-        "participants": [
-            "Michigan",
-            "Oregon"
-        ],
-        "outcome_payout": 5.9,
+        "outcome_payout": 3.55,
         "source": "DRAFT_KINGS",
-        "participant": "Michigan",
+        "participant": null,
+        "sport": null,
+        "implied_probability": 28.178112,
+        "profit_potential": 255.0,
+        "EV": 0.0322976,
+        "event_start_time": "2024-11-02T15:00:00.000Z",
+        "competition_instance_name": "2024-25 English Football League Championship"
+    },
+    {
+        "key": "gxuo-ykFx-PO0E",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Georgia Southern @ South Alabama",
+        "participants": [
+            "Georgia Southern",
+            "South Alabama"
+        ],
+        "outcome_payout": 3.0,
+        "source": "ESPN_BET",
+        "participant": "Georgia Southern",
         "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 16.982386,
-        "profit_potential": 490.0,
-        "EV": 0.1960774,
-        "event_start_time": "2024-11-02T19:30:00.000Z",
+        "implied_probability": 33.499204,
+        "profit_potential": 200.0,
+        "EV": 0.497612,
+        "event_start_time": "2024-11-02T23:30:00.000Z",
         "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "aQlK-ykFx-UjCn",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Georgia Southern @ South Alabama",
+        "participants": [
+            "Georgia Southern",
+            "South Alabama"
+        ],
+        "outcome_payout": 3.05,
+        "source": "BOVADA",
+        "participant": "Georgia Southern",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 33.499204,
+        "profit_potential": 205.0,
+        "EV": 2.1725722,
+        "event_start_time": "2024-11-02T23:30:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "0M8F-ykFx-D7i3",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Ipswich Town @ Tottenham Hotspur",
+        "participants": [
+            "Tottenham Hotspur",
+            "Ipswich Town"
+        ],
+        "outcome_payout": 10.0,
+        "source": "BET_PARX",
+        "participant": "Ipswich Town",
+        "sport": "SOCCER",
+        "implied_probability": 10.245964,
+        "profit_potential": 900.0,
+        "EV": 2.45964,
+        "event_start_time": "2024-11-10T14:00:00.000Z",
+        "competition_instance_name": "2024-25 English Premier League"
+    },
+    {
+        "key": "sMx5-ykFx-wdbR",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Ipswich Town @ Tottenham Hotspur",
+        "participants": [
+            "Tottenham Hotspur",
+            "Ipswich Town"
+        ],
+        "outcome_payout": 10.5,
+        "source": "BET_RIVERS",
+        "participant": "Ipswich Town",
+        "sport": "SOCCER",
+        "implied_probability": 10.245964,
+        "profit_potential": 950.0,
+        "EV": 7.582622,
+        "event_start_time": "2024-11-10T14:00:00.000Z",
+        "competition_instance_name": "2024-25 English Premier League"
+    },
+    {
+        "key": "9kP3-ykFx-cIrW",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Arsenal FC @ Newcastle United",
+        "participants": [
+            "Arsenal FC",
+            "Newcastle United"
+        ],
+        "outcome_payout": 4.0,
+        "source": "BET_RIVERS",
+        "participant": "Newcastle United",
+        "sport": "SOCCER",
+        "implied_probability": 25.062788,
+        "profit_potential": 300.0,
+        "EV": 0.251152,
+        "event_start_time": "2024-11-02T12:30:00.000Z",
+        "competition_instance_name": "2024-25 English Premier League"
+    },
+    {
+        "key": "zARW-ykFx-K8pv",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Aston Villa @ Tottenham Hotspur",
+        "participants": [
+            "Tottenham Hotspur",
+            "Aston Villa"
+        ],
+        "outcome_payout": 3.8,
+        "source": "BET_RIVERS",
+        "participant": "Aston Villa",
+        "sport": "SOCCER",
+        "implied_probability": 26.445235,
+        "profit_potential": 280.0,
+        "EV": 0.491893,
+        "event_start_time": "2024-11-03T14:00:00.000Z",
+        "competition_instance_name": "2024-25 English Premier League"
+    },
+    {
+        "key": "kM0D-ykFx-Rn6c",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Brighton & Hove Albion @ Liverpool",
+        "participants": [
+            "Brighton & Hove Albion",
+            "Liverpool"
+        ],
+        "outcome_payout": 5.5,
+        "source": "DRAFT_KINGS",
+        "participant": null,
+        "sport": null,
+        "implied_probability": 18.203283,
+        "profit_potential": 450.0,
+        "EV": 0.1180565,
+        "event_start_time": "2024-11-02T15:00:00.000Z",
+        "competition_instance_name": "2024-25 English Premier League"
+    },
+    {
+        "key": "qXOi-ykFx-pgGm",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Aston Villa @ Liverpool",
+        "participants": [
+            "Liverpool",
+            "Aston Villa"
+        ],
+        "outcome_payout": 6.4,
+        "source": "BET_PARX",
+        "participant": "Aston Villa",
+        "sport": "SOCCER",
+        "implied_probability": 15.888024,
+        "profit_potential": 540.0,
+        "EV": 1.6833536,
+        "event_start_time": "2024-11-09T20:00:00.000Z",
+        "competition_instance_name": "2024-25 English Premier League"
+    },
+    {
+        "key": "NzQF-ykFx-0nb7",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Aston Villa @ Liverpool",
+        "participants": [
+            "Liverpool",
+            "Aston Villa"
+        ],
+        "outcome_payout": 6.5,
+        "source": "BET_RIVERS",
+        "participant": "Aston Villa",
+        "sport": "SOCCER",
+        "implied_probability": 15.888024,
+        "profit_potential": 550.0,
+        "EV": 3.272156,
+        "event_start_time": "2024-11-09T20:00:00.000Z",
+        "competition_instance_name": "2024-25 English Premier League"
+    },
+    {
+        "key": "KFEn-ykFx-kY4B",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Leicester City @ Manchester United",
+        "participants": [
+            "Leicester City",
+            "Manchester United"
+        ],
+        "outcome_payout": 8.5,
+        "source": "BET_PARX",
+        "participant": "Leicester City",
+        "sport": "SOCCER",
+        "implied_probability": 11.959807,
+        "profit_potential": 750.0,
+        "EV": 1.6583595,
+        "event_start_time": "2024-11-10T14:00:00.000Z",
+        "competition_instance_name": "2024-25 English Premier League"
+    },
+    {
+        "key": "aIY6-ykFx-npTB",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Leicester City @ Manchester United",
+        "participants": [
+            "Leicester City",
+            "Manchester United"
+        ],
+        "outcome_payout": 9.0,
+        "source": "BET_RIVERS",
+        "participant": "Leicester City",
+        "sport": "SOCCER",
+        "implied_probability": 11.959807,
+        "profit_potential": 800.0,
+        "EV": 7.638263,
+        "event_start_time": "2024-11-10T14:00:00.000Z",
+        "competition_instance_name": "2024-25 English Premier League"
+    },
+    {
+        "key": "5KT5-ykFx-XsIs",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Leicester City @ Manchester United",
+        "participants": [
+            "Leicester City",
+            "Manchester United"
+        ],
+        "outcome_payout": 6.25,
+        "source": "BET_RIVERS",
+        "participant": null,
+        "sport": null,
+        "implied_probability": 16.261521,
+        "profit_potential": 525.0,
+        "EV": 1.63450625,
+        "event_start_time": "2024-11-10T14:00:00.000Z",
+        "competition_instance_name": "2024-25 English Premier League"
     },
     {
         "key": "2efd-ykFx-SG1k",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE_3WAY",
         "market_name": "Union Berlin @ Bayern Munich",
         "participants": [
@@ -540,9 +1060,29 @@
         "competition_instance_name": "2024-25 German Bundesliga"
     },
     {
+        "key": "BkUv-ykFx-9dNK",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Georgia State @ UConn",
+        "participants": [
+            "Georgia State",
+            "UConn"
+        ],
+        "outcome_payout": 3.6,
+        "source": "FAN_DUEL",
+        "participant": "Georgia State",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 28.470472,
+        "profit_potential": 260.0,
+        "EV": 2.4936992,
+        "event_start_time": "2024-11-01T23:00:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
         "key": "gBk2-ykFx-XWIw",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE_3WAY",
         "market_name": "VfL Bochum @ Eintracht Frankfurt",
         "participants": [
@@ -562,7 +1102,7 @@
     {
         "key": "n17R-ykFx-6Msm",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE_3WAY",
         "market_name": "VfL Bochum @ Eintracht Frankfurt",
         "participants": [
@@ -580,69 +1120,109 @@
         "competition_instance_name": "2024-25 German Bundesliga"
     },
     {
-        "key": "3GAX-ykFx-A32U",
+        "key": "RzYd-ykFx-1I70",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Paris St Germain @ Angers",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Oregon @ Michigan",
         "participants": [
-            "Paris St Germain",
-            "Angers"
+            "Michigan",
+            "Oregon"
         ],
-        "outcome_payout": 11.5,
-        "source": "BET_PARX",
-        "participant": "Angers",
-        "sport": "SOCCER",
-        "implied_probability": 9.024439,
-        "profit_potential": 1050.0,
-        "EV": 3.7810485,
-        "event_start_time": "2024-11-09T20:00:00.000Z",
-        "competition_instance_name": "2024-25 French Ligue 1"
+        "outcome_payout": 5.9,
+        "source": "DRAFT_KINGS",
+        "participant": "Michigan",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 16.982386,
+        "profit_potential": 490.0,
+        "EV": 0.1960774,
+        "event_start_time": "2024-11-02T19:30:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
     },
     {
-        "key": "krx4-ykFx-i949",
+        "key": "wF7k-ykFx-kTqt",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE_3WAY",
-        "market_name": "AS Saint-Etienne @ Olympique Lyon",
+        "market_name": "Cagliari @ Lazio",
         "participants": [
-            "Olympique Lyon",
-            "AS Saint-Etienne"
+            "Lazio",
+            "Cagliari"
         ],
-        "outcome_payout": 9.5,
-        "source": "BET_PARX",
-        "participant": "AS Saint-Etienne",
+        "outcome_payout": 7.0,
+        "source": "FAN_DUEL",
+        "participant": "Cagliari",
         "sport": "SOCCER",
-        "implied_probability": 11.137385,
-        "profit_potential": 850.0,
-        "EV": 5.8051575,
-        "event_start_time": "2024-11-10T19:45:00.000Z",
-        "competition_instance_name": "2024-25 French Ligue 1"
+        "implied_probability": 15.212442,
+        "profit_potential": 600.0,
+        "EV": 6.487094,
+        "event_start_time": "2024-11-04T19:45:00.000Z",
+        "competition_instance_name": "2024-25 Italian Serie A"
     },
     {
-        "key": "pm71-ykFx-x2bS",
+        "key": "x98n-ykFx-c39B",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Paris St Germain @ Angers",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Texas Tech @ Iowa State",
         "participants": [
-            "Paris St Germain",
-            "Angers"
+            "Iowa State",
+            "Texas Tech"
         ],
-        "outcome_payout": 12.0,
-        "source": "BET_RIVERS",
-        "participant": "Angers",
-        "sport": "SOCCER",
-        "implied_probability": 9.024439,
-        "profit_potential": 1100.0,
-        "EV": 8.293268,
-        "event_start_time": "2024-11-09T20:00:00.000Z",
-        "competition_instance_name": "2024-25 French Ligue 1"
+        "outcome_payout": 5.1,
+        "source": "BOVADA",
+        "participant": "Texas Tech",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 19.877334,
+        "profit_potential": 410.0,
+        "EV": 1.3744034,
+        "event_start_time": "2024-11-02T19:30:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "xoeZ-ykFx-Folp",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Texas Tech @ Iowa State",
+        "participants": [
+            "Iowa State",
+            "Texas Tech"
+        ],
+        "outcome_payout": 5.1,
+        "source": "DRAFT_KINGS",
+        "participant": "Texas Tech",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 19.877334,
+        "profit_potential": 410.0,
+        "EV": 1.3744034,
+        "event_start_time": "2024-11-02T19:30:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
+    },
+    {
+        "key": "zvBi-ykFx-ClrN",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Georgia State @ UConn",
+        "participants": [
+            "Georgia State",
+            "UConn"
+        ],
+        "outcome_payout": 3.65,
+        "source": "BOVADA",
+        "participant": "Georgia State",
+        "sport": "AMERICAN_FOOTBALL",
+        "implied_probability": 28.470472,
+        "profit_potential": 265.0,
+        "EV": 3.9172228,
+        "event_start_time": "2024-11-01T23:00:00.000Z",
+        "competition_instance_name": "2024 NCAA Division I Football"
     },
     {
         "key": "ZZoc-ykFw-mxbZ",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE_3WAY",
         "market_name": "FC Augsburg @ VfL Wolfsburg",
         "participants": [
@@ -660,763 +1240,83 @@
         "competition_instance_name": "2024-25 German Bundesliga"
     },
     {
-        "key": "0FoL-ykFx-eV0I",
+        "key": "bzT4-ykFx-DB8Q",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Duke @ Miami (FL)",
-        "participants": [
-            "Miami (FL)",
-            "Duke"
-        ],
-        "outcome_payout": 9.5,
-        "source": "DRAFT_KINGS",
-        "participant": "Duke",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 10.607619,
-        "profit_potential": 850.0,
-        "EV": 0.7723805,
-        "event_start_time": "2024-11-02T16:00:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "4eo8-ykFx-4saB",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE_3WAY",
-        "market_name": "Ipswich Town @ Tottenham Hotspur",
+        "market_name": "Venezia @ Inter Milan",
         "participants": [
-            "Tottenham Hotspur",
-            "Ipswich Town"
-        ],
-        "outcome_payout": 10.0,
-        "source": "FAN_DUEL",
-        "participant": "Ipswich Town",
-        "sport": "SOCCER",
-        "implied_probability": 10.106805,
-        "profit_potential": 900.0,
-        "EV": 1.06805,
-        "event_start_time": "2024-11-10T14:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "4KfN-ykFx-g8yq",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Georgia Southern @ South Alabama",
-        "participants": [
-            "Georgia Southern",
-            "South Alabama"
-        ],
-        "outcome_payout": 3.0,
-        "source": "ESPN_BET",
-        "participant": "Georgia Southern",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 33.5787,
-        "profit_potential": 200.0,
-        "EV": 0.7361,
-        "event_start_time": "2024-11-02T23:30:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "Nhg5-ykFx-NxuZ",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Ipswich Town @ Tottenham Hotspur",
-        "participants": [
-            "Tottenham Hotspur",
-            "Ipswich Town"
-        ],
-        "outcome_payout": 10.5,
-        "source": "BET_RIVERS",
-        "participant": "Ipswich Town",
-        "sport": "SOCCER",
-        "implied_probability": 10.106805,
-        "profit_potential": 950.0,
-        "EV": 6.1214525,
-        "event_start_time": "2024-11-10T14:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "p0C0-ykFw-S63A",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Tampa Bay Buccaneers @ Kansas City Chiefs",
-        "participants": [
-            "Kansas City Chiefs",
-            "Tampa Bay Buccaneers"
-        ],
-        "outcome_payout": 4.6,
-        "source": "DRAFT_KINGS",
-        "participant": "Tampa Bay Buccaneers",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 21.98271,
-        "profit_potential": 360.0,
-        "EV": 1.120466,
-        "event_start_time": "2024-11-05T01:15:00.000Z",
-        "competition_instance_name": "2024-25 National Football League"
-    },
-    {
-        "key": "V8Cj-ykFx-PXCW",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Ipswich Town @ Tottenham Hotspur",
-        "participants": [
-            "Tottenham Hotspur",
-            "Ipswich Town"
-        ],
-        "outcome_payout": 10.0,
-        "source": "BET_PARX",
-        "participant": "Ipswich Town",
-        "sport": "SOCCER",
-        "implied_probability": 10.106805,
-        "profit_potential": 900.0,
-        "EV": 1.06805,
-        "event_start_time": "2024-11-10T14:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "WJDU-ykFx-3LH2",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE",
-        "market_name": "Georgia Southern @ South Alabama",
-        "participants": [
-            "Georgia Southern",
-            "South Alabama"
-        ],
-        "outcome_payout": 3.05,
-        "source": "BOVADA",
-        "participant": "Georgia Southern",
-        "sport": "AMERICAN_FOOTBALL",
-        "implied_probability": 33.5787,
-        "profit_potential": 205.0,
-        "EV": 2.415035,
-        "event_start_time": "2024-11-02T23:30:00.000Z",
-        "competition_instance_name": "2024 NCAA Division I Football"
-    },
-    {
-        "key": "89HL-ykFw-CsFm",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Espanyol @ Barcelona",
-        "participants": [
-            "Barcelona",
-            "Espanyol"
-        ],
-        "outcome_payout": 19.0,
-        "source": "BOVADA",
-        "participant": "Espanyol",
-        "sport": "SOCCER",
-        "implied_probability": 5.566432,
-        "profit_potential": 1800.0,
-        "EV": 5.762208,
-        "event_start_time": "2024-11-03T15:15:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
-    },
-    {
-        "key": "BLeb-ykFx-pOSR",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Manchester City @ Brighton & Hove Albion",
-        "participants": [
-            "Brighton & Hove Albion",
-            "Manchester City"
-        ],
-        "outcome_payout": 5.1,
-        "source": "FAN_DUEL",
-        "participant": "Brighton & Hove Albion",
-        "sport": "SOCCER",
-        "implied_probability": 19.67445,
-        "profit_potential": 410.0,
-        "EV": 0.339695,
-        "event_start_time": "2024-11-09T17:30:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "hmOs-ykFw-qsno",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Aston Villa @ Tottenham Hotspur",
-        "participants": [
-            "Tottenham Hotspur",
-            "Aston Villa"
-        ],
-        "outcome_payout": 3.8,
-        "source": "BET_RIVERS",
-        "participant": "Aston Villa",
-        "sport": "SOCCER",
-        "implied_probability": 26.440211,
-        "profit_potential": 280.0,
-        "EV": 0.4728018,
-        "event_start_time": "2024-11-03T14:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "p4FQ-ykFw-QKg4",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Legan\u00e9s @ Girona",
-        "participants": [
-            "Girona",
-            "Legan\u00e9s"
-        ],
-        "outcome_payout": 6.0,
-        "source": "BET_RIVERS",
-        "participant": "Legan\u00e9s",
-        "sport": "SOCCER",
-        "implied_probability": 16.937933,
-        "profit_potential": 500.0,
-        "EV": 1.627598,
-        "event_start_time": "2024-11-02T15:15:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
-    },
-    {
-        "key": "QuMi-ykFx-aHdx",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Auxerre @ Olympique Marseille",
-        "participants": [
-            "Olympique Marseille",
-            "Auxerre"
-        ],
-        "outcome_payout": 7.5,
-        "source": "BET_RIVERS",
-        "participant": "Auxerre",
-        "sport": "SOCCER",
-        "implied_probability": 13.60598,
-        "profit_potential": 650.0,
-        "EV": 2.04485,
-        "event_start_time": "2024-11-08T19:45:00.000Z",
-        "competition_instance_name": "2024-25 French Ligue 1"
-    },
-    {
-        "key": "TfH9-ykFw-Sbk9",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Espanyol @ Barcelona",
-        "participants": [
-            "Barcelona",
-            "Espanyol"
-        ],
-        "outcome_payout": 20.0,
-        "source": "BET_RIVERS",
-        "participant": "Espanyol",
-        "sport": "SOCCER",
-        "implied_probability": 5.566432,
-        "profit_potential": 1900.0,
-        "EV": 11.32864,
-        "event_start_time": "2024-11-03T15:15:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
-    },
-    {
-        "key": "thpE-ykFx-zQ9A",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "AS Saint-Etienne @ Olympique Lyon",
-        "participants": [
-            "Olympique Lyon",
-            "AS Saint-Etienne"
-        ],
-        "outcome_payout": 9.5,
-        "source": "BET_RIVERS",
-        "participant": "AS Saint-Etienne",
-        "sport": "SOCCER",
-        "implied_probability": 11.137385,
-        "profit_potential": 850.0,
-        "EV": 5.8051575,
-        "event_start_time": "2024-11-10T19:45:00.000Z",
-        "competition_instance_name": "2024-25 French Ligue 1"
-    },
-    {
-        "key": "WnBk-ykFw-wVcd",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Espanyol @ Barcelona",
-        "participants": [
-            "Barcelona",
-            "Espanyol"
-        ],
-        "outcome_payout": 19.0,
-        "source": "BET_PARX",
-        "participant": "Espanyol",
-        "sport": "SOCCER",
-        "implied_probability": 5.566432,
-        "profit_potential": 1800.0,
-        "EV": 5.762208,
-        "event_start_time": "2024-11-03T15:15:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
-    },
-    {
-        "key": "ZWzr-ykFx-NWRY",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Auxerre @ Olympique Marseille",
-        "participants": [
-            "Olympique Marseille",
-            "Auxerre"
-        ],
-        "outcome_payout": 7.5,
-        "source": "BET_PARX",
-        "participant": "Auxerre",
-        "sport": "SOCCER",
-        "implied_probability": 13.60598,
-        "profit_potential": 650.0,
-        "EV": 2.04485,
-        "event_start_time": "2024-11-08T19:45:00.000Z",
-        "competition_instance_name": "2024-25 French Ligue 1"
-    },
-    {
-        "key": "csmx-ykFx-4P19",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Plymouth Argyle @ Leeds United",
-        "participants": [
-            "Leeds United",
-            "Plymouth Argyle"
-        ],
-        "outcome_payout": 8.0,
-        "source": "BET_RIVERS",
-        "participant": null,
-        "sport": null,
-        "implied_probability": 12.52234,
-        "profit_potential": 700.0,
-        "EV": 0.17872,
-        "event_start_time": "2024-11-02T15:00:00.000Z",
-        "competition_instance_name": "2024-25 English Football League Championship"
-    },
-    {
-        "key": "lYDF-ykFx-31Fx",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Plymouth Argyle @ Leeds United",
-        "participants": [
-            "Leeds United",
-            "Plymouth Argyle"
-        ],
-        "outcome_payout": 16.0,
-        "source": "BET_RIVERS",
-        "participant": "Plymouth Argyle",
-        "sport": "SOCCER",
-        "implied_probability": 7.129508,
-        "profit_potential": 1500.0,
-        "EV": 14.072128,
-        "event_start_time": "2024-11-02T15:00:00.000Z",
-        "competition_instance_name": "2024-25 English Football League Championship"
-    },
-    {
-        "key": "PbOF-ykFx-WbQT",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Plymouth Argyle @ Leeds United",
-        "participants": [
-            "Leeds United",
-            "Plymouth Argyle"
-        ],
-        "outcome_payout": 15.0,
-        "source": "BET_PARX",
-        "participant": "Plymouth Argyle",
-        "sport": "SOCCER",
-        "implied_probability": 7.129508,
-        "profit_potential": 1400.0,
-        "EV": 6.94262,
-        "event_start_time": "2024-11-02T15:00:00.000Z",
-        "competition_instance_name": "2024-25 English Football League Championship"
-    },
-    {
-        "key": "sH0M-ykFx-Xss8",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Plymouth Argyle @ Leeds United",
-        "participants": [
-            "Leeds United",
-            "Plymouth Argyle"
-        ],
-        "outcome_payout": 8.0,
-        "source": "BET_PARX",
-        "participant": null,
-        "sport": null,
-        "implied_probability": 12.52234,
-        "profit_potential": 700.0,
-        "EV": 0.17872,
-        "event_start_time": "2024-11-02T15:00:00.000Z",
-        "competition_instance_name": "2024-25 English Football League Championship"
-    },
-    {
-        "key": "S6dT-ykFx-h6Ob",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Las Palmas @ Atletico Madrid",
-        "participants": [
-            "Atletico Madrid",
-            "Las Palmas"
-        ],
-        "outcome_payout": 11.0,
-        "source": "BET_PARX",
-        "participant": "Las Palmas",
-        "sport": "SOCCER",
-        "implied_probability": 9.370309,
-        "profit_potential": 1000.0,
-        "EV": 3.073399,
-        "event_start_time": "2024-11-03T13:00:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
-    },
-    {
-        "key": "VB5m-ykFx-bwGB",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Las Palmas @ Atletico Madrid",
-        "participants": [
-            "Atletico Madrid",
-            "Las Palmas"
-        ],
-        "outcome_payout": 11.0,
-        "source": "BET_RIVERS",
-        "participant": "Las Palmas",
-        "sport": "SOCCER",
-        "implied_probability": 9.370309,
-        "profit_potential": 1000.0,
-        "EV": 3.073399,
-        "event_start_time": "2024-11-03T13:00:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
-    },
-    {
-        "key": "X17w-ykFx-1PQf",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Osasuna @ Real Madrid",
-        "participants": [
-            "Osasuna",
-            "Real Madrid"
-        ],
-        "outcome_payout": 8.5,
-        "source": "BET_PARX",
-        "participant": null,
-        "sport": null,
-        "implied_probability": 12.2439,
-        "profit_potential": 750.0,
-        "EV": 4.07315,
-        "event_start_time": "2024-11-09T13:00:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
-    },
-    {
-        "key": "4nPg-ykFx-gImo",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Osasuna @ Real Madrid",
-        "participants": [
-            "Osasuna",
-            "Real Madrid"
+            "Inter Milan",
+            "Venezia"
         ],
         "outcome_payout": 8.5,
         "source": "BET_RIVERS",
         "participant": null,
         "sport": null,
-        "implied_probability": 12.2439,
+        "implied_probability": 11.953572,
         "profit_potential": 750.0,
-        "EV": 4.07315,
-        "event_start_time": "2024-11-09T13:00:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
+        "EV": 1.605362,
+        "event_start_time": "2024-11-03T19:45:00.000Z",
+        "competition_instance_name": "2024-25 Italian Serie A"
     },
     {
-        "key": "eqqp-ykFx-1y3q",
+        "key": "Et9Q-ykFx-c77u",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Osasuna @ Real Madrid",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE",
+        "market_name": "Houston Rockets @ Dallas Mavericks",
         "participants": [
-            "Osasuna",
-            "Real Madrid"
+            "Dallas Mavericks",
+            "Houston Rockets"
+        ],
+        "outcome_payout": 3.2,
+        "source": "FAN_DUEL",
+        "participant": "Houston Rockets",
+        "sport": "BASKETBALL",
+        "implied_probability": 31.288875,
+        "profit_potential": 220.0,
+        "EV": 0.1244,
+        "event_start_time": "2024-11-01T00:30:00.000Z",
+        "competition_instance_name": "2024-25 National Basketball Association"
+    },
+    {
+        "key": "hujN-ykFx-S4WI",
+        "edge": "PLUS_EV_AVERAGE",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
+        "type": "MONEYLINE_3WAY",
+        "market_name": "Venezia @ Inter Milan",
+        "participants": [
+            "Inter Milan",
+            "Venezia"
         ],
         "outcome_payout": 17.0,
-        "source": "FAN_DUEL",
-        "participant": "Osasuna",
+        "source": "BET_PARX",
+        "participant": "Venezia",
         "sport": "SOCCER",
-        "implied_probability": 6.219192,
+        "implied_probability": 6.452543,
         "profit_potential": 1600.0,
-        "EV": 5.726264,
-        "event_start_time": "2024-11-09T13:00:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
-    },
-    {
-        "key": "88kL-ykFx-YlH4",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Osasuna @ Real Madrid",
-        "participants": [
-            "Osasuna",
-            "Real Madrid"
-        ],
-        "outcome_payout": 20.0,
-        "source": "BET_PARX",
-        "participant": "Osasuna",
-        "sport": "SOCCER",
-        "implied_probability": 6.219192,
-        "profit_potential": 1900.0,
-        "EV": 24.38384,
-        "event_start_time": "2024-11-09T13:00:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
-    },
-    {
-        "key": "ajOi-ykFx-6lT8",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Osasuna @ Real Madrid",
-        "participants": [
-            "Osasuna",
-            "Real Madrid"
-        ],
-        "outcome_payout": 20.0,
-        "source": "BET_RIVERS",
-        "participant": "Osasuna",
-        "sport": "SOCCER",
-        "implied_probability": 6.219192,
-        "profit_potential": 1900.0,
-        "EV": 24.38384,
-        "event_start_time": "2024-11-09T13:00:00.000Z",
-        "competition_instance_name": "2024-25 Spanish La Liga"
-    },
-    {
-        "key": "r5pt-ykFx-CZou",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Angers @ Monaco",
-        "participants": [
-            "Monaco",
-            "Angers"
-        ],
-        "outcome_payout": 13.0,
-        "source": "BET_PARX",
-        "participant": "Angers",
-        "sport": "SOCCER",
-        "implied_probability": 7.724435,
-        "profit_potential": 1200.0,
-        "EV": 0.417655,
-        "event_start_time": "2024-11-01T18:00:00.000Z",
-        "competition_instance_name": "2024-25 French Ligue 1"
-    },
-    {
-        "key": "t901-ykFx-VitP",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Angers @ Monaco",
-        "participants": [
-            "Monaco",
-            "Angers"
-        ],
-        "outcome_payout": 14.0,
-        "source": "BET_RIVERS",
-        "participant": "Angers",
-        "sport": "SOCCER",
-        "implied_probability": 7.724435,
-        "profit_potential": 1300.0,
-        "EV": 8.14209,
-        "event_start_time": "2024-11-01T18:00:00.000Z",
-        "competition_instance_name": "2024-25 French Ligue 1"
-    },
-    {
-        "key": "06Fo-ykFx-Wu3m",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Olympique Marseille @ Nantes",
-        "participants": [
-            "Olympique Marseille",
-            "Nantes"
-        ],
-        "outcome_payout": 4.0,
-        "source": "BET_RIVERS",
-        "participant": "Nantes",
-        "sport": "SOCCER",
-        "implied_probability": 25.153792,
-        "profit_potential": 300.0,
-        "EV": 0.615168,
+        "EV": 9.693231,
         "event_start_time": "2024-11-03T19:45:00.000Z",
-        "competition_instance_name": "2024-25 French Ligue 1"
+        "competition_instance_name": "2024-25 Italian Serie A"
     },
     {
-        "key": "0n9K-ykFx-N3vo",
+        "key": "H2WR-ykFx-DbGX",
         "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
+        "lastFoundAt": "2024-10-31T23:38:00.860Z",
         "type": "MONEYLINE_3WAY",
-        "market_name": "Aston Villa @ Liverpool",
+        "market_name": "Venezia @ Inter Milan",
         "participants": [
-            "Liverpool",
-            "Aston Villa"
+            "Inter Milan",
+            "Venezia"
         ],
-        "outcome_payout": 5.6,
-        "source": "FAN_DUEL",
-        "participant": null,
-        "sport": null,
-        "implied_probability": 18.488418,
-        "profit_potential": 460.0,
-        "EV": 3.5351408,
-        "event_start_time": "2024-11-09T20:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "1Jwu-ykFx-CoCJ",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Leicester City @ Manchester United",
-        "participants": [
-            "Leicester City",
-            "Manchester United"
-        ],
-        "outcome_payout": 8.5,
-        "source": "BET_PARX",
-        "participant": "Leicester City",
-        "sport": "SOCCER",
-        "implied_probability": 11.945209,
-        "profit_potential": 750.0,
-        "EV": 1.5342765,
-        "event_start_time": "2024-11-10T14:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "5h0f-ykFx-SMGp",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Manchester City @ AFC Bournemouth",
-        "participants": [
-            "Manchester City",
-            "AFC Bournemouth"
-        ],
-        "outcome_payout": 5.7,
-        "source": "FAN_DUEL",
-        "participant": "AFC Bournemouth",
-        "sport": "SOCCER",
-        "implied_probability": 17.596544,
-        "profit_potential": 470.0,
-        "EV": 0.3003008,
-        "event_start_time": "2024-11-02T15:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "e9uK-ykFx-eadV",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Aston Villa @ Liverpool",
-        "participants": [
-            "Liverpool",
-            "Aston Villa"
-        ],
-        "outcome_payout": 6.5,
+        "outcome_payout": 18.0,
         "source": "BET_RIVERS",
-        "participant": "Aston Villa",
+        "participant": "Venezia",
         "sport": "SOCCER",
-        "implied_probability": 15.861743,
-        "profit_potential": 550.0,
-        "EV": 3.1013295,
-        "event_start_time": "2024-11-09T20:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "f2gz-ykFx-ecXq",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Aston Villa @ Liverpool",
-        "participants": [
-            "Liverpool",
-            "Aston Villa"
-        ],
-        "outcome_payout": 6.4,
-        "source": "BET_PARX",
-        "participant": "Aston Villa",
-        "sport": "SOCCER",
-        "implied_probability": 15.861743,
-        "profit_potential": 540.0,
-        "EV": 1.5151552,
-        "event_start_time": "2024-11-09T20:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "rrsq-ykFx-YPpK",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Leicester City @ Manchester United",
-        "participants": [
-            "Leicester City",
-            "Manchester United"
-        ],
-        "outcome_payout": 6.25,
-        "source": "BET_RIVERS",
-        "participant": null,
-        "sport": null,
-        "implied_probability": 16.188832,
-        "profit_potential": 525.0,
-        "EV": 1.1802,
-        "event_start_time": "2024-11-10T14:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "zV6l-ykFx-bRI9",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "Leicester City @ Manchester United",
-        "participants": [
-            "Leicester City",
-            "Manchester United"
-        ],
-        "outcome_payout": 9.0,
-        "source": "BET_RIVERS",
-        "participant": "Leicester City",
-        "sport": "SOCCER",
-        "implied_probability": 11.945209,
-        "profit_potential": 800.0,
-        "EV": 7.506881,
-        "event_start_time": "2024-11-10T14:00:00.000Z",
-        "competition_instance_name": "2024-25 English Premier League"
-    },
-    {
-        "key": "0B7P-ykFx-twbT",
-        "edge": "PLUS_EV_AVERAGE",
-        "lastFoundAt": "2024-10-31T23:19:00.967Z",
-        "type": "MONEYLINE_3WAY",
-        "market_name": "LA Galaxy @ Colorado Rapids",
-        "participants": [
-            "Colorado Rapids",
-            "LA Galaxy"
-        ],
-        "outcome_payout": 4.4,
-        "source": "FAN_DUEL",
-        "participant": null,
-        "sport": null,
-        "implied_probability": 22.998919,
-        "profit_potential": 340.0,
-        "EV": 1.1952436,
-        "event_start_time": "2024-11-02T01:30:00.000Z",
-        "competition_instance_name": "2024 Major League Soccer"
+        "implied_probability": 6.452543,
+        "profit_potential": 1700.0,
+        "EV": 16.145774,
+        "event_start_time": "2024-11-03T19:45:00.000Z",
+        "competition_instance_name": "2024-25 Italian Serie A"
     }
 ]
